@@ -2,6 +2,7 @@
 ![screencast-2ijk7 csb app-2023 07 09-23_53_30 (1)](https://github.com/AngelVelascoH/AngelVelascoH/assets/86260733/d983b4fe-53c4-4e72-b0bf-a67f463103a1)
 
 </p>
+[screencast-2ijk7.csb.app-2023.07.09-23_53_30.webm](https://github.com/AngelVelascoH/AngelVelascoH/assets/86260733/10814aa0-1e50-4d19-85a3-678ed80d02c0)
 
 
 <h1 align="center"> I'm Angel Velasco</h1>
