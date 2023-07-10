@@ -1,5 +1,5 @@
 <p align="center">
-![screencast-2ijk7 csb app-2023 07 09-23_53_30 (1)](https://github.com/AngelVelascoH/AngelVelascoH/assets/86260733/d983b4fe-53c4-4e72-b0bf-a67f463103a1)
+![]()
 
 </p>
 
