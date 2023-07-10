@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Angel Velasco</h1>
+<p align="center">
+  ![screencast-2ijk7 csb app-2023 07 09-23_53_30 (1)](https://github.com/AngelVelascoH/AngelVelascoH/assets/86260733/0a0e0333-0e80-4070-b24e-9a8b0713de2f)
+</p>
+
+
+<h1 align="center"> I'm Angel Velasco</h1>
 <h3 align="center">A passionate Computer Systems Engineer from Mexico.</h3>
 
 - 🔭 I’m currently working on **a mexican Sign Language Translator**
