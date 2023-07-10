@@ -1,5 +1,5 @@
 <p align="center">
-![](https://github.com/AngelVelascoH/AngelVelascoH/blob/main/GIF.gif)
+  <img src="https://github.com/AngelVelascoH/AngelVelascoH/blob/main/GIF.gif" alt="Hi I´m Angel">
 
 </p>
 
