@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **a mexican Sign Language Translator**
 
-- 🌱 I’m currently learning **Google Cloud Platform, Microsoft Azure, Kubernetes, ML, Data Analysis.**
+- 🌱 I’m currently learning **Spring, Microsoft Azure, ReactJS, ML.**
 
-- 👯 I’m looking to collaborate on **Cloud related projects**
+- 👯 I’m looking to collaborate on **Front-End or Back-End** projects
 
 - 💬 Ask me about **Azure, Pyhton, WEB development, Distributed Systems.**
 
