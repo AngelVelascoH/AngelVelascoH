@@ -8,13 +8,13 @@
 <h1 align="center"> I'm Angel Velasco</h1>
 <h3 align="center">A passionate Computer Systems Engineer from Mexico.</h3>
 
-- 🔭 I’m currently working on **a mexican Sign Language Translator**
+- 🔭 I’m currently working with Spring, and ReactJS**
 
-- 🌱 I’m currently learning **Spring, Microsoft Azure, ReactJS, ML.**
+- 🌱 I’m currently learning **ML**
 
 - 👯 I’m looking to collaborate on **Front-End or Back-End** projects
 
-- 💬 Ask me about **Azure, Pyhton, WEB development, Distributed Systems.**
+- 💬 Ask me about **Cloud, Web Development, Ml, and Computer Science**
 
 - 📫 How to reach me **angeleduardo8888@gmail.com**
 
