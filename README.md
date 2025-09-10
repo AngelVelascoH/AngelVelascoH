@@ -6,7 +6,7 @@
 
 
 <h1 align="center"> I'm Angel Velasco</h1>
-<h3 align="center">A passionate Computer Systems Engineer from Mexico.</h3>
+<h3 align="center">Computer Systems Engineer from Mexico.</h3>
 
 - 🔭 I’m currently working with Spring, and ReactJS**
 
@@ -14,9 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End or Back-End** projects
 
-- 💬 Ask me about **Cloud, Web Development, Ml, and Computer Science**
-
-- 📫 How to reach me **angeleduardo8888@gmail.com**
+- 📫 **angeleduardo8888@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
