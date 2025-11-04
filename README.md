@@ -8,11 +8,11 @@
 <h1 align="center"> I'm Angel Velasco</h1>
 <h3 align="center">Computer Systems Engineer from Mexico.</h3>
 
-- 🔭 I’m currently working with Spring, and ReactJS**
+- 🔭 I’m currently working with Spring, and ReactJS
 
 - 🌱 I’m currently learning **ML**
 
-- 👯 I’m looking to collaborate on **Front-End or Back-End** projects
+- 👯 I’m looking to collaborate on  **Back-End** projects
 
 - 📫 **angeleduardo8888@gmail.com**
 
